@@ -20,6 +20,8 @@ obj = Solution()
 x1 = 121
 x2 = -121
 x3 = 10
+x4 = 5
 print(obj.isPalindrome(x1))
 print(obj.isPalindrome(x2))
 print(obj.isPalindrome(x3))
+print(obj.isPalindrome(x4))
